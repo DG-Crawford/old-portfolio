@@ -2,10 +2,10 @@ A pharmaceutical discovery, research on sleep cycles, and new applications–as 
 
 Select highlights of my achievements include:
 
-·	Ghostwrote an article published for an entrepreneur-focused column on Forbes magazine. 
-·	Created SEO-optimized content that boosted the company’s Google search rankings and doubled organic leads from website traffic.
-·	Solidified publication’s voice and identity through creation of a definitive style guide. 
-·	Integrated extensive copy editing and proofreading practices, which virtually eliminated publication errors.
+	Ghostwrote an article published for an entrepreneur-focused column on Forbes magazine. 
+	Created SEO-optimized content that boosted the company’s Google search rankings and doubled organic leads from website traffic.
+	Solidified publication’s voice and identity through creation of a definitive style guide. 
+	Integrated extensive copy editing and proofreading practices, which virtually eliminated publication errors.
 
 Outcomes such as these are constant across my career and are the result of my leadership and capabilities. For further prove of my writing and editing capabailities, I invite you to view samples of my work at https://dg-crawford.github.io/writing-portfolio/.
 
