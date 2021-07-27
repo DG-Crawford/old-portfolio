@@ -7,7 +7,7 @@ Select highlights of my achievements include:
 	Solidified publication’s voice and identity through creation of a definitive style guide. 
 	Integrated extensive copy editing and proofreading practices, which virtually eliminated publication errors.
 
-Outcomes such as these are constant across my career and are the result of my leadership and capabilities. For further prove of my writing and editing capabailities, I invite you to view samples of my work at https://dg-crawford.github.io/writing-portfolio/.
+Outcomes such as these are constant across my career and are the result of my leadership and capabilities. For further proof of my writing and editing capabailities, I invite you to view samples of my work at https://dg-crawford.github.io/writing-portfolio/.
 
 I could not have published my online portfolio without the help of others who provide free-use services.
 
