@@ -1,22 +1,15 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+A pharmaceutical discovery, research on sleep cycles, and new applications–as a writer and editor, I have researched, written, and published pieces on these topics and more. My versatility and adaptability are keys to my success as a writer. My work includes feature articles, blog posts, website content, marketing communications, and academic writing.
 
+Select highlights of my achievements include:
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+·	Ghostwrote an article published for an entrepreneur-focused column on Forbes magazine. 
+·	Created SEO-optimized content that boosted the company’s Google search rankings and doubled organic leads from website traffic.
+·	Solidified publication’s voice and identity through creation of a definitive style guide. 
+·	Integrated extensive copy editing and proofreading practices, which virtually eliminated publication errors.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Outcomes such as these are constant across my career and are the result of my leadership and capabilities. For further prove of my writing and editing capabailities, I invite you to view samples of my work at https://dg-crawford.github.io/writing-portfolio/.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
+I could not have published my online portfolio without the help of others who provide free-use services.
 
 Credits:
 
@@ -26,7 +19,5 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+	Design:
+		Massively by HTML5 UP and aj@lkn.io | @ajlkn
