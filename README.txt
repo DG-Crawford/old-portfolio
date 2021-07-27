@@ -3,7 +3,7 @@ A pharmaceutical discovery, research on sleep cycles, and new applications–as 
 Select highlights of my achievements include:
 
 	Ghostwrote an article published for an entrepreneur-focused column on Forbes magazine. 
-	Created SEO-optimized content that boosted the company’s Google search rankings and doubled organic leads from website traffic.
+	Created SEO-optimized content that boosted the company’s Google search rankings and doubled organic leads.
 	Solidified publication’s voice and identity through creation of a definitive style guide. 
 	Integrated extensive copy editing and proofreading practices, which virtually eliminated publication errors.
 
